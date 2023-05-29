@@ -1,0 +1,26 @@
+.heading{
+    padding-bottom: 20px;
+    text-decoration: underline;  
+}
+
+.Register{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    margin-top: 250px;
+    padding-top: 60px;
+    background-color: lightblue;
+}
+
+.firstname,.lastname,.username, .password{
+    margin-right: 100px;
+}
+
+.field{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.submit{
+    margin-top: 20px;
+}
